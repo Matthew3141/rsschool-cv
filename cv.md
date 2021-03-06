@@ -1,8 +1,8 @@
 # rsschool-cv
 Course
 https://Matthew3141.github.io/rsschool-cv/cv
-      Кузнецов Матвей
-Frontend development
+      Кузнецов Матвей - Frontend development
+      ----------------
 Контактные данные: Телефон:
 +375-29-153-80-60
 Email:
