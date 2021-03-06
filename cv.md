@@ -3,6 +3,9 @@ Course
 https://Matthew3141.github.io/rsschool-cv/cv
 Matthew Kuzniatsov - Frontend development
 ------
+![](https://drive.google.com/file/d/1r4FNjKKlIZ2elVz68uDviiCLbKOOulzn/view?usp=sharing)
+
+
 # How to reach me: 
 > Cell:
 +375-29-153-80-60\
