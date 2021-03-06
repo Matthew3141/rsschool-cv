@@ -9,7 +9,7 @@ https://Matthew3141.github.io/rsschool-cv/cv
 > Email:
 mkuzniatsov@gmail.com\
 > Linkedin:
-<https://www.linkedin.com/in/matthew-kuzniatsov-337a901a2/>
+<https://www.linkedin.com/in/matthew-kuzniatsov-337a901a2/>\
 Portfolio:
 ссылка
 
