@@ -44,7 +44,7 @@ Frontend development
 * Владение CSS, HTML, JavaScript;
 * Уверенные знания технического английского языка.
 
-## Пример кода 
+## Sample code: 
 
 ```
 function isAnagram(test, original) {
