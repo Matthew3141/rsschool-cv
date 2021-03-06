@@ -60,6 +60,7 @@ function normalize(text) {
 }
 ```
 
-## Качества: 
-* Техническое мышление, уравновешенность, сосредоточенность,высокая степень самоорганизации.
+## Professional Skills: 
+* Possessing CSS, HTML, JavaScript;
+* Strong knowledge of the technical English.
                    
