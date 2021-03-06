@@ -44,6 +44,22 @@ Frontend development
 * Владение CSS, HTML, JavaScript;
 * Уверенные знания технического английского языка.
 
+## Пример кода 
+
+```
+function isAnagram(test, original) {
+  return sortString(normalize(test)) === sortString(normalize(original));
+}
+
+function sortString(string) {
+  return string.split("").sort().join("");
+}
+
+function normalize(text) {
+  return text.replace(/[^\w]/g, "").toLowerCase();
+}
+```
+
 ## Качества: 
 * Техническое мышление, уравновешенность, сосредоточенность,высокая степень самоорганизации.
                    
