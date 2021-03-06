@@ -62,5 +62,6 @@ function normalize(text) {
 
 ## Professional Skills: 
 * Possessing CSS, HTML, JavaScript;
-* Strong knowledge of the technical English.
+* Strong knowledge of the technical English;
+* Technical thinking, equanimity, concentration, high degree of self-organization.
                    
