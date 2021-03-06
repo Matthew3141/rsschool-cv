@@ -13,9 +13,9 @@ mkuzniatsov@gmail.com\
 Portfolio:
 link
 
-## Персональные данные
+## Personal Profile
 
-> *Веб-разработчик с надежными навыками решения проблем и проверенным опытом в создании, обновлении, исправлении алгоритмов для всевозможных десктопных и мобильных приложений и веб- сайтов.*
+> *Web developer with solid problem- solving skills and proven experience in creating, updating, patching algorithms for all sorts of desktop and mobile applications and websites.*
 
 ## Образование, курсы 
 
