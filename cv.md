@@ -6,9 +6,11 @@ https://Matthew3141.github.io/rsschool-cv/cv
 # Контактные данные: 
 > Телефон:
 +375-29-153-80-60\
-Email:
+>
+> Email:
 mkuzniatsov@gmail.com\
-Linkedin:
+>
+> Linkedin:
 @matthewkuzniatsov
 Portfolio:
 ссылка
