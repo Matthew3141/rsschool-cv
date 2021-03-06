@@ -1,17 +1,17 @@
 # rsschool-cv
 Course
 https://Matthew3141.github.io/rsschool-cv/cv
-Кузнецов Матвей - Frontend development
+Matthew Kuzniatsov - Frontend development
 ------
-# Контактные данные: 
-> Телефон:
+# How to reach me: 
+> Cell:
 +375-29-153-80-60\
 > Email:
 mkuzniatsov@gmail.com\
 > Linkedin:
 <https://www.linkedin.com/in/matthew-kuzniatsov-337a901a2/>\
 Portfolio:
-ссылка
+link
 
 ## Персональные данные
 
