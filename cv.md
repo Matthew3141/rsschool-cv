@@ -16,9 +16,9 @@ mkuzniatsov@gmail.com\
 
 > *Web developer with solid problem-solving skills and proven experience in creating, updating, patching algorithms for all sorts of desktop and mobile applications and websites.*
 
-## Образование, курсы 
+## Educational Training 
 
-##### **WebHeroSchool**
+### **WebHeroSchool**
 
 Веб-разработчик (месяц/год)
 
