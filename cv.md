@@ -11,8 +11,6 @@ https://Matthew3141.github.io/rsschool-cv/cv
 mkuzniatsov@gmail.com\
 > Linkedin:
 <https://www.linkedin.com/in/matthew-kuzniatsov-337a901a2/>\
-Portfolio:
-link
 
 ## Personal Profile
 
