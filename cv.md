@@ -45,9 +45,9 @@ Frontend development
 EDUCATIONAL ESTABLISHMENT "NGAEC"
 Work experience (1.5 years)
 
-* Обучение по утвержденной программе;
-* Анализ успеваемости и корректировка в соответствие с результатами; 
-* Оформление документации, ведение журналов.
+* Training according to an approved program;
+* Analysis of progress and correction in accordance with the results; 
+* Paperwork, maintaining journals.
 
 ## Sample code: 
 
