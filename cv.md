@@ -33,8 +33,10 @@ Bachelor's Degree "Accounting, Analysis and Audit" (month/year)
 * Anticrisis management; 
 * Taxes and taxation;
 * Laboratory workshop on accounting.
-Опыт работы
+
+## Опыт работы
 Frontend development
+
 Работа над проектами в отделе разработки;
 Верстка figma, .psd макетов; Адаптация сайтов под мобильные устройства;
 Работа с различными CMS (WordPress, OpenCart и др.); Адаптивная кроссбраузерная верстка сайтов и лендинговых страниц.
