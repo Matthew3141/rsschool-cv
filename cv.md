@@ -43,7 +43,7 @@ Frontend development
 
 ## Accounting Tutor
 EDUCATIONAL ESTABLISHMENT "NGAEC"
-* Work experience (1.5 years)
+> Work experience (1.5 years)
 
 *  Training according to an approved program;
 *  Analysis of progress and correction in accordance with the results; 
