@@ -22,9 +22,9 @@ mkuzniatsov@gmail.com\
 
 Web Developer (month/year)
 
-> * Создание структуры гипертекстового документа на основе HTML разметки; 
-> * Программирование внешнего отображения и интерактивных элементов сайта;
-> * Анимирование элементов документа HTML с использованием CSS.
+> * Creating the structure of a hypertext document based on HTML markup; 
+> * Programming the external display and interactive elements of the site;
+> * Animating HTML document elements using CSS.
 
 ## **Belarusian State Economic University**
 
