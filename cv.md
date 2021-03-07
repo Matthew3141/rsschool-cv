@@ -30,11 +30,11 @@ link
 
 ## **Belarusian State Economic University**
 
-Бакалавриат "Бухгалтерский учет, анализ и аудит" (месяц/ год)
-* Комплексный экономический анализ; 
-* Антикризисное управление; 
-* Налоги и налогообложение;
-* Лабораторный практикум по бухгалтерскому учету.
+Bachelor's Degree "Accounting, Analysis and Audit" (month/year)
+* Comprehensive economic analysis; 
+* Anticrisis management; 
+* Taxes and taxation;
+* Laboratory workshop on accounting.
 Опыт работы
 Frontend development
 Работа над проектами в отделе разработки;
