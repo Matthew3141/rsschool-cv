@@ -2,7 +2,7 @@
 Course
 https://Matthew3141.github.io/rsschool-cv/cv
 
-#Matthew Kuzniatsov - Frontend development
+# Matthew Kuzniatsov - Frontend development
 
 # How to reach me: 
 > Cell:
