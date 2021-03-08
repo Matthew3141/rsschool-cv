@@ -20,7 +20,7 @@ mkuzniatsov@gmail.com\
 
 ### **WebHeroSchool**
 
-Web Developer (month/year)
+Web Developer (1 year)
 
 > * Creating the structure of a hypertext document based on HTML markup; 
 > * Programming the external display and interactive elements of the site;
@@ -28,7 +28,7 @@ Web Developer (month/year)
 
 ## **Belarusian State Economic University**
 
-Bachelor's Degree "Accounting, Analysis and Audit" (month/year)
+Bachelor's Degree "Accounting, Analysis and Audit" (4 years)
 * Comprehensive economic analysis; 
 * Anticrisis management; 
 * Taxes and taxation;
