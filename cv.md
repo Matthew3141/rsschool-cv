@@ -34,12 +34,14 @@ Bachelor's Degree "Accounting, Analysis and Audit" (month/year)
 * Taxes and taxation;
 * Laboratory workshop on accounting.
 
-## Опыт работы
+## Career Summary
 Frontend development
 
-Работа над проектами в отделе разработки;
-Верстка figma, .psd макетов; Адаптация сайтов под мобильные устройства;
-Работа с различными CMS (WordPress, OpenCart и др.); Адаптивная кроссбраузерная верстка сайтов и лендинговых страниц.
+Work on projects in the development department;
+* Figma layout, .psd layouts;
+* Adapting sites for mobile devices;
+* Working with different CMS (WordPress, OpenCart, etc.); 
+* Adaptive cross-browser coding of websites and landing pages.
 
 ## Accounting Tutor
 EDUCATIONAL ESTABLISHMENT "NGAEC"
