@@ -28,14 +28,14 @@ Web Developer (1 year)
 
 ## **Belarusian State Economic University**
 
-Bachelor's Degree "Accounting, Analysis and Audit" (4 years)
+> Bachelor's Degree "Accounting, Analysis and Audit" (4 years)
 * Comprehensive economic analysis; 
 * Anticrisis management; 
 * Taxes and taxation;
 * Laboratory workshop on accounting.
 
 ## Career Summary
-Frontend development
+> Frontend development
 
 Work on projects in the development department;
 * Figma layout, .psd layouts;
